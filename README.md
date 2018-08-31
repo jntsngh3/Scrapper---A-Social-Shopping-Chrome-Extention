@@ -17,8 +17,8 @@ This process includes following steps:-
 <h3>Link to chrome Extention</h3>
 https://chrome.google.com/webstore/detail/srapper/hbeghfjjfnjoljaphigckfegcgicopai
 
-<br>
 To use this repository as a extention clone or download it. Then zip the downloaded file and go to:-
+
 1. Chrome settings.
 2. Settings --> More Tools
 3. More Tools --> Extentions
