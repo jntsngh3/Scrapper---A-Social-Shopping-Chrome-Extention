@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+
+  "name": "Srapper",
+  "description": "This extension demonstrates a browser action that showcases data scraping done on flipkart accourding to twitter trends.",
+  "version": "1.1",
+
+  "permissions": [
+    "http://localhost/liki/",
+    "tabs","<all_urls>",
+    "https://www.flipkart.com/*"
+  ],
+  "browser_action": {
+    "default_icon": "zoe.png",
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+}
+}
